@@ -19,7 +19,3 @@ y adquirir experiencia con SQL, Python y Power BI.
    - Power BI: Modelado de datos con DAX (Linkedin Learning, 2024)
 
 - 🚀 Mi objetivo es continuar creciendo profesionalmente. Tener la oportunidad de aplicar mis conocimientos y seguir desarrollando mis habilidades.
-
-- 📫 Como contactarme:
-   - Mail: agustorremorell55.at@gmail.com
-   - Linkedin: www.linkedin.com/in/agustina-torremorell-49a599235
